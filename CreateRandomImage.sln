@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateRandomImage", "CreateRandomImage\CreateRandomImage.csproj", "{EE12AB30-75AD-4740-9C32-956885112C22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE12AB30-75AD-4740-9C32-956885112C22}.Debug|x86.ActiveCfg = Debug|x86
+		{EE12AB30-75AD-4740-9C32-956885112C22}.Debug|x86.Build.0 = Debug|x86
+		{EE12AB30-75AD-4740-9C32-956885112C22}.Release|x86.ActiveCfg = Release|x86
+		{EE12AB30-75AD-4740-9C32-956885112C22}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = CreateRandomImage\CreateRandomImage.csproj
+	EndGlobalSection
+EndGlobal
